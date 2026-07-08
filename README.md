@@ -390,7 +390,7 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
 
 [![Email](https://img.shields.io/badge/Email-mhranahmed990@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhranahmed990@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud_Mahran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-ahmed-mahran-b24162243)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahmoud--mahran.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoud-mahran.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahmoud--mahran.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoud-mahran-portofolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-mhranahmed990--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhranahmed990-tech)
 
 ---
