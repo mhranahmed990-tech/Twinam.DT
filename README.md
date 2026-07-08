@@ -375,7 +375,7 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
       <img src="Twinam/docs/assets/mohamed_nabil.png" width="90" style="border-radius:50%"/><br/>
       <b>Mohamed Nabil</b><br/>
       <sub>Co-Founder</sub><br/>
-      <a href="[https://linkedin.com/in/mkhairallah](https://www.linkedin.com/in/mohamed-nabil70?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+      <a href="https://linkedin.com/in/mkhairallah](https://www.linkedin.com/in/mohamed-nabil70?utm_source=share_via&utm_content=profile&utm_medium=member_android">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
     </td>
   </tr>
