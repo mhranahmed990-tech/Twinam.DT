@@ -21,7 +21,7 @@
 
 ---
 
-<img src="docs/assets/twinam-demo.gif" alt="Twinam Dashboard Demo" width="100%"/>
+<img src="Twinam/docs/assets/twinam-demo.gif" alt="Twinam Dashboard Demo" width="100%"/>
 
 </div>
 
@@ -315,7 +315,7 @@ http://localhost:3000
 
 ## 🔄 N8N Automation
 
-<img src="docs/assets/n8n-demo.gif" alt="N8N Automation Workflow" width="100%"/>
+<img src="Twinam/docs/assets/n8n-demo.gif" alt="N8N Automation Workflow" width="100%"/>
 
 ```
 MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email Alert
@@ -325,9 +325,9 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
 
 <table>
 <tr>
-<td><img src="docs/assets/Alert1.PNG" alt="Alert 1" width="100%"/></td>
-<td><img src="docs/assets/Alert2.PNG" alt="Alert 2" width="100%"/></td>
-<td><img src="docs/assets/Alert3.PNG" alt="Alert 3" width="100%"/></td>
+<td><img src="Twinam/docs/assets/Alert1.PNG" alt="Alert 1" width="100%"/></td>
+<td><img src="Twinam/docs/assets/Alert2.PNG" alt="Alert 2" width="100%"/></td>
+<td><img src="Twinam/docs/assets/Alert3.PNG" alt="Alert 3" width="100%"/></td>
 </tr>
 </table>
 
@@ -340,7 +340,7 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="docs/assets/mahmoud-mahran.png" width="90" style="border-radius:50%"/><br/>
+      <img src="Twinam/docs/assets/mahmoud-mahran.png" width="90" style="border-radius:50%"/><br/>
       <b>Mahmoud Mahran</b><br/>
       <sub>AI Engineer</sub><br/>
       <a href="https://www.linkedin.com/in/mahmoud-ahmed-mahran-b24162243">
@@ -348,7 +348,7 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
       </a>
     </td>
     <td align="center">
-      <img src="docs/assets/ahmed-osama.png" width="90" style="border-radius:50%"/><br/>
+      <img src="Twinam/docs/assets/ahmed-osama.png" width="90" style="border-radius:50%"/><br/>
       <b>Ahmed Osama</b><br/>
       <sub>Co-Founder</sub><br/>
       <a href="https://www.linkedin.com/in/eng-ahmed-osama">
@@ -356,7 +356,7 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
       </a>
     </td>
     <td align="center">
-      <img src="docs/assets/asmaa-wajeah.png" width="90" style="border-radius:50%"/><br/>
+      <img src="Twinam/docs/assets/asmaa-wajeah.png" width="90" style="border-radius:50%"/><br/>
       <b>Asmaa Wajeah</b><br/>
       <sub>Co-Founder</sub><br/>
       <a href="https://www.linkedin.com/in/asma-wajeah1410">
@@ -364,7 +364,7 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
       </a>
     </td>
     <td align="center">
-      <img src="docs/assets/mahmoud-alaa.png" width="90" style="border-radius:50%"/><br/>
+      <img src="Twinam/docs/assets/mahmoud-alaa.png" width="90" style="border-radius:50%"/><br/>
       <b>Mahmoud Alaa</b><br/>
       <sub>Co-Founder</sub><br/>
       <a href="https://linkedin.com/in/mkhairallah">
@@ -372,7 +372,7 @@ MQTT Trigger  →  Map Features  →  /predict_all  →  Ollama LLM  →  Email 
       </a>
     </td>
     <td align="center">
-      <img src="docs/assets/mohamed_nabil.png" width="90" style="border-radius:50%"/><br/>
+      <img src="Twinam/docs/assets/mohamed_nabil.png" width="90" style="border-radius:50%"/><br/>
       <b>Mohamed Nabil</b><br/>
       <sub>Co-Founder</sub><br/>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
