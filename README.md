@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/twinam-logo.png" alt="Twinam Logo" width="150"/>
+<img src="Twinam/docs/assets/twinam-logo.png" alt="Twinam Logo" width="150"/>
 
 # Twinam — Smart Factory Digital Twin
 
